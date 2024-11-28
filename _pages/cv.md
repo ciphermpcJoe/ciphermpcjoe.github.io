@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (Simplified)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, University of Kentucky, Lexington KY, 2016
-  * Specialization: Distributed Systems and Information Security
   * Dissertation: Information-Theoretic Secure Outsourced Computation in Distributed Systems
   * Adviser: Dr. Samson Cheung
 
