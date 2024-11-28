@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I mainly teach courses in embedded systems, cryptographic applications in computing systems, and computer networks. The projects I am suprvising now are about CPU security and distributed computing.
+I primarily teach courses in embedded systems, cryptographic applications in computing systems, and computer networks. Currently, I am supervising projects focused on CPU security and distributed computing.
 
-Recruitment and **Financial Support**
+Recruitment and Financial Support
 ======
 I am actively seeking self-motivated students to join my team. Successful candidates will be recruited through Chico State Enterprises and will receive compensation for their work.
 
