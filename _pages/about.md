@@ -11,7 +11,7 @@ I primarily teach courses in embedded systems, cryptographic applications in com
 
 Recruitment and Financial Support
 ======
-I am actively seeking self-motivated students to join my team. Successful candidates will be recruited through Chico State Enterprises and will receive compensation for their work.
+I am actively seeking self-motivated students to join my team. Successful candidates will be recruited through Chico State Enterprises and will **receive compensation** for their work.
 
 The funding Sponsor requires that candidates should be U.S. citizens. If you are an undergraduate or master's student with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
 
