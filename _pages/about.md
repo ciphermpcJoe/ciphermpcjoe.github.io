@@ -15,11 +15,15 @@ I am actively seeking self-motivated students to join my team. Successful candid
 
 The funding Sponsor requires that candidates should be U.S. citizens. If you are an undergraduate or master's student with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
 
-Active Projects with Funding Support
+Active Projects
 ======
+Imagine the possibility of working remotely while earning a competitive salary equivalent to that of the Bay Area, all while living in a low-cost area such as Chico, California, Panama, Portugal, or anywhere else in the world. 
+I would like to help you explore this career path by introducing you to a special opportunity with our team. We are offering a unique scholarship for a **research fellowship** focused on security.
 
 Secure Computation in Distributed Systems
 ------
+Participating in this project will equip you with essential skills in cryptography and computer networking, preparing you for the job market. The training you receive will be unparalleled and will provide you with the knowledge and experience that **employers** are actively seeking. This opportunity will not only enhance your job applications but also open doors to prestigious graduate schools.
 
 Privacy-Preserving Joint Computation
 ------
+Working on this project will provide you with exposure to advanced topics in distributed computing. The foundational elements of this project include Linux socket programming (as covered in EECE 446) and cryptographic protocols.
