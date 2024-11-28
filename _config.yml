@@ -12,9 +12,9 @@ title                    : "Zhaohong (Joe) Wang / Adventure into the Digital Wor
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://zhaohongwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ciphermpcjoe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ciphermpcJoe/zhaohongwang.github.io"
+repository               : "ciphermpcJoe/ciphermpcjoe.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "ciphermpcJoe/zhaohongwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Quick Information"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "California State University, Chico"
   uri              : # URL
   email            : "zwang25@csuchico.edu" 
 
