@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Zhaohong (Joe) Wang's Personal Website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I primarily teach courses in embedded systems, cryptographic applications in computing systems, and computer networks. My research interests are in information forensics and security in embedded systems and computer architecture. I am also very interested in data science in computer networks modeled as signals on graphs. Currently, I am supervising projects focused on CPU security and distributed computing.
+My teaching expertise spans **embedded systems, cryptographic applications in computing systems, and computer networks**.  My research interests lie at the intersection of **information forensics and security** within **embedded systems and computer architecture**.  I'm particularly drawn to exploring **data science in computer networks** through the lens of **graph-based signal analysis**.  Currently, I'm guiding projects focused on **CPU security and distributed computing**. 
 
 Recruitment and Financial Support
 ======
@@ -17,7 +17,7 @@ The funding Sponsor requires that candidates should be U.S. citizens. If you are
 
 Active Projects
 ======
-Imagine the incredible opportunity of working remotely while earning a competitive salary comparable to that in the Bay Area, all while enjoying life in an affordable location like Chico, California. I would like to invite you to explore this career path by introducing you to a special opportunity within our team. We are offering a unique scholarship for a **research fellowship** focused on security. The skills you gain through this fellowship will enhance your application portfolio for [future job prospects](https://www.crypto-careers.com/) in the field.
+Imagine the incredible opportunity of working remotely while earning a competitive salary comparable to that in the Bay Area, all while enjoying life in an affordable location like Chico, California. I would like to invite you to explore this career path by introducing you to a special opportunity within our team. We are offering a unique scholarship for a **research fellowship** focused on security, both hardware and software. The skills you gain through this fellowship will enhance your application portfolio for future job prospects in the field.
 
 Secure Computation in Distributed Systems
 ------
