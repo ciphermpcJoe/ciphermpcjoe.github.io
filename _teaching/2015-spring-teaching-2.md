@@ -4,7 +4,7 @@ collection: teaching
 type: "Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "EECE, CSU Chico"
-date: present
+date: 2024-11-28
 location: "Chico, California"
 ---
 
