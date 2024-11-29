@@ -2,7 +2,7 @@
 title: "Undergraduate Courses"
 collection: teaching
 type: "Courses"
-permalink: /teaching/undergraduate-teaching
+permalink: /teaching/2015-spring-teaching-1
 venue: "EECE, CSU Chico"
 date: present
 location: "Chico, California"
