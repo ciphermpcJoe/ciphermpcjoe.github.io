@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My teaching expertise spans **embedded systems, cryptographic applications in computing systems, and computer networks**.  My research interests lie at the intersection of **information forensics and security** within **embedded systems and computer architecture**.  I'm particularly drawn to exploring **data science in computer networks** through the lens of **graph-based signal analysis**.  Currently, I'm guiding projects focused on **CPU security and distributed computing**. 
+My teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  My research interests lie at the intersection of information forensics and security within embedded systems and computer architecture.  I'm particularly drawn to exploring data science in computer networks through the lens of graph-based signal analysis.  Currently, I'm guiding projects focused on **CPU security and distributed computing**. 
 
 Recruitment and Financial Support
 ======
