@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Courses"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate courses"
+permalink: /teaching/graduate-teaching
+venue: "EECE, CSU Chico"
+date: 2025-08-25
+location: "Chico, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I primarily teach graduate courses on security and digital design.
 
-Heading 1
+EECE 637 Advanced Embedded Systems
 ======
 
-Heading 2
+EECE 643 Digital Design
 ======
 
-Heading 3
+EECE 644 Advanced Cryptographic Protocols for Secure Distributed Computing
+======
+
+EECE 655 Topics in Computer Networking
 ======
