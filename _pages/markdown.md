@@ -9,4 +9,5 @@ redirect_from:
 
 ## Office Hours
 Tuesday 8:00 - 9:20 AM
+
 Thursday 3:15 - 4:55 PM
