@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  My research interests lie at the intersection of information forensics and security within embedded systems and computer architecture.  I'm particularly drawn to exploring data science in computer networks through the lens of graph-based signal analysis.  Currently, I'm guiding projects focused on **CPU security and distributed computing**. 
-
-Recruitment and Financial Support
+Financial Support and Recruitment
 ======
 I am actively seeking self-motivated students to join my team. Successful candidates will be recruited through Chico State Enterprises and will **receive compensation** for their work.
 
@@ -26,3 +24,7 @@ Participating in this project will equip you with essential skills in cryptograp
 Privacy-Preserving Joint Computation
 ------
 Working on this project will provide you with exposure to advanced topics in distributed computing. The foundational elements of this project include Linux socket programming (as covered in EECE 446) and cryptographic protocols.
+
+Teaching and Research
+======
+My teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  My research interests lie at the intersection of information forensics and security within embedded systems and computer architecture.  I'm particularly drawn to exploring data science in computer networks through the lens of graph-based signal analysis.  Currently, I'm guiding projects focused on **CPU security and distributed computing**.
