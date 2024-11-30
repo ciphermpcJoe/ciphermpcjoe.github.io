@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Financial Support and Recruitment
+Financial Support and Recruitment for Active Projects
 ======
 I am actively seeking self-motivated students to join my team. Successful candidates will be recruited through Chico State Enterprises and will **receive compensation** for their work.
 
 If you are an undergraduate or master's student with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
 
-Active Projects
-======
 Imagine the incredible opportunity of working remotely while earning a competitive salary comparable to that in the Bay Area, all while enjoying life in an affordable location like Chico, California. I would like to invite you to explore this career path by introducing you to a special opportunity within our team. We are offering a unique scholarship for a **research fellowship** focused on security, both hardware and software. The skills you gain through this fellowship will enhance your application portfolio for future job prospects in the field.
 
 Secure Computation in Distributed Systems
