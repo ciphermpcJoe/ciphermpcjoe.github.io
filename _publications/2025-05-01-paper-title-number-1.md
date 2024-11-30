@@ -2,7 +2,7 @@
 title: "Research on Secure Computation and Graph Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-01-paper-title-number-5
+permalink: /publication/2025-05-01-paper-title-number-1
 #excerpt: 'This paper is about data science in networks.'
 #date: 2023-07-23
 #venue: 'IEEE Signal Processing Letters'
