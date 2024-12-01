@@ -9,6 +9,9 @@ location: "Chico, California"
 ---
 
 I primarily teach graduate courses on security and digital design.
+
+Recent Courses
+======
 * EECE 637 Advanced Embedded Systems
 * EECE 643 Digital Design
 * EECE 644 Advanced Cryptographic Protocols for Secure Distributed Computing

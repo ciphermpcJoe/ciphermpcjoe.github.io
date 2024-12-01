@@ -9,6 +9,9 @@ location: "Chico, California"
 ---
 
 I teach courses on embedded systems and computer networks. 
+
+Recent Courses
+======
 * EECE 237 Embedded Systems Development
 * EECE 344 Embedded Systems Design
 * EECE 437 Real-Time Embedded Systems
