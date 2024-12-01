@@ -9,7 +9,7 @@ redirect_from:
 
 Financial Support and Recruitment for Active Projects
 ======
-I am actively seeking self-motivated students to join my team. Successful candidates will **receive compensation** for their work.
+I am actively seeking self-motivated students to join my team. Successful candidates will **receive financial support** for their study and work.
 
 If you are a **senior** undergraduate or a master's student in the track of **project** or **thesis** with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
 
