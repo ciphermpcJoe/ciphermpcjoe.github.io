@@ -14,6 +14,4 @@ I primarily teach graduate courses on security and digital design.
 * EECE 644 Advanced Cryptographic Protocols for Secure Distributed Computing
 * EECE 655 Topics in Computer Networking
 
-# EECE 637 Advanced Embedded Systems
-# ======
 
