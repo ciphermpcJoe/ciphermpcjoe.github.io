@@ -9,15 +9,15 @@ redirect_from:
 
 Financial Support and Recruitment for Active Projects
 ======
-I am actively seeking self-motivated students to join my team. Successful candidates will be recruited through Chico State Enterprises and will **receive compensation** for their work.
+I am actively seeking self-motivated students to join my team. Successful candidates will **receive compensation** for their work.
 
-If you are an undergraduate or master's student with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
+If you are a **senior** undergraduate or a master's student in the track of **project** or **thesis** with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
 
-Imagine the incredible opportunity of working remotely while earning a competitive salary comparable to that in the Bay Area, all while enjoying life in an affordable location like Chico, California. I would like to invite you to explore this career path by introducing you to a special opportunity within our team. We are offering a unique scholarship for a **research fellowship** focused on security, both hardware and software. The skills you gain through this fellowship will enhance your application portfolio for future job prospects in the field.
+Imagine the incredible opportunity of working remotely while earning a competitive salary comparable to that in the Bay Area, all while enjoying life in an affordable location like Chico, California. I would like to invite you to explore this career path by introducing you to a special opportunity within our team. We are offering a unique scholarship for a **research fellowship** focused on CPU information security, both hardware and software. The skills you gain through this fellowship will enhance your application portfolio for future job prospects in the field.
 
-Secure Computation in Distributed Systems
+Special CPU Architecture for Secure Computation
 ------
-Participating in this project will equip you with essential skills in cryptography and computer networking, preparing you for the job market. The training you receive will be unparalleled and will provide you with the knowledge and experience that **employers** are actively seeking. This opportunity will not only enhance your job applications but also open doors to prestigious graduate schools.
+Participating in this project will equip you with essential skills in cryptography and computer architecture and networking, preparing you for the job market. The training you receive will be unparalleled and will provide you with the knowledge and experience that employers are actively seeking. This opportunity will not only enhance your job applications but also open doors to prestigious graduate schools.
 
 Privacy-Preserving Joint Computation
 ------
