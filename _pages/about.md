@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhaohong (Joe) Wang, and I am an associate professor in the Department of Electrical and Computer Engineering in California State University, Chico.
+My name is Zhaohong (Joe) Wang and I am an associate professor in the Department of Electrical and Computer Engineering in California State University, Chico.
 
 Teaching and Research
 ======
