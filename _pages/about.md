@@ -11,11 +11,13 @@ Associate Professor, Electrical and Computer Engineering
 [College of Engineering, Computer Science, and Construction Management](https://www.csuchico.edu/academics/college/engineering/index.shtml)  
 [California State University, Chico](https://www.csuchico.edu)
 
-Dr. Zhaohong (Joe) Wang is an associate professor in the Department of Electrical and Computer Engineering in California State University, Chico. His teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  His research interests lie at the intersection of information forensics and security within embedded systems and computer architecture.  He's particularly drawn to exploring data science in computer networks through the lens of graph-based signal analysis.  Currently, he is guiding projects focused on **secure CPU** and **distributed computing**.
+Dr. Zhaohong (Joe) Wang's teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  His research interests lie at the intersection of information forensics and security within embedded systems and computer architecture.  
+
+#He's particularly drawn to exploring data science in computer networks through the lens of graph-based signal analysis.  
 
 Financial Support and Recruitment
 ======
-I am actively seeking self-motivated students to join my team. Successful candidates will **receive financial support** for their study and work.
+Currently, I am guiding projects focused on **secure CPU** and **distributed computing**. I am actively seeking self-motivated students to join my team. Successful candidates will **receive financial support** for their study and work.
 
 If you are a **senior** undergraduate or a master's student in the track of **project** or **thesis** with a strong interest in CPU architecture and its security, as well as a passion for computer systems and a willingness to take on challenges, I encourage you to email me your CV/resume and unofficial transcripts. I would love to schedule a discussion about your qualifications and eligibility.
 
