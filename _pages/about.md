@@ -11,9 +11,7 @@ Associate Professor, Electrical and Computer Engineering
 [College of Engineering, Computer Science, and Construction Management](https://www.csuchico.edu/academics/college/engineering/index.shtml)  
 [California State University, Chico](https://www.csuchico.edu)
 
-Dr. Zhaohong (Joe) Wang's teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  His research interests lie at the intersection of information forensics and security within embedded systems and computer architecture.  
-
-#He's particularly drawn to exploring data science in computer networks through the lens of graph-based signal analysis.  
+Dr. Zhaohong (Joe) Wang's teaching spans embedded systems, cryptographic applications in computing systems, and computer networks.  His research interests lie at the intersection of information forensics and security within embedded systems and computer architecture. 
 
 Financial Support and Recruitment
 ======
