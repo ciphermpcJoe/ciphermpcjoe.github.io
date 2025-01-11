@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Schedule of Fall 2024"
+title: "Schedule of Spring 2025"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 ## Office Hours
- * Tuesday 8:00 - 9:20 AM
- * Thursday 3:15 - 4:55 PM
+ * Monday 9:00 - 10:30 AM
+ * Wednesday 9:00 - 10:30 AM
+ * or by appointment in Zoom
