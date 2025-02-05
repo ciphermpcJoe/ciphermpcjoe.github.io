@@ -9,5 +9,5 @@ redirect_from:
 
 ## Office Hours
  * Monday 9:00 - 10:30 AM;
- * Tuesday 8:00 - 8:30 AM and 9:00 - 10:00 AM;
+ * Tuesday 9:00 - 10:00 AM, and 2:00 - 2:30 PM
  * or by appointment in Zoom
